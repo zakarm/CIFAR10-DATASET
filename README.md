@@ -8,3 +8,5 @@ The CIFAR (Canadian Institute for Advanced Research) dataset is a collection of 
 The CIFAR dataset is often used as a benchmark for image classification algorithms because of its relatively small size and simplicity compared to other datasets such as ImageNet. It is commonly used to evaluate the performance of deep learning models, particularly convolutional neural networks (CNNs).
 
 The CIFAR dataset has been used in a wide range of research areas, including object recognition, image segmentation, image restoration, and generative models. Many machine learning frameworks, such as TensorFlow and PyTorch, provide built-in functions to download and load the CIFAR dataset for training and testing machine learning models.
+
+<center>![alt text]()</center>
