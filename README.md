@@ -9,6 +9,6 @@ The CIFAR dataset is often used as a benchmark for image classification algorith
 
 The CIFAR dataset has been used in a wide range of research areas, including object recognition, image segmentation, image restoration, and generative models. Many machine learning frameworks, such as TensorFlow and PyTorch, provide built-in functions to download and load the CIFAR dataset for training and testing machine learning models.
 
-<div style="text-align:center">
+<p align="center">
     <img src="https://github.com/zakarm/CIFAR10-DATASET/blob/main/cifar-10.png" width="300" height="300">
-</div>
+</p>
