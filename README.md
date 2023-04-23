@@ -15,6 +15,14 @@ The CIFAR dataset has been used in a wide range of research areas, including obj
     <img src="https://github.com/zakarm/CIFAR10-DATASET/blob/main/cifar-10.png" width="300" height="300">
 </p>
 
+## Requirements
+```
+    pip install numpy
+    pip install pandas
+    pip install tensorflow
+    pip install matplotlib
+```
+
 ## Load CIFAR10-DATASET
 
 There are several ways to download and install the CIFAR dataset, depending on your needs and the machine learning framework you are using. Here are a few options:
