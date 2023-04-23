@@ -27,7 +27,7 @@ There are several ways to download and install the CIFAR dataset, depending on y
 
 Regardless of the method you choose, it's important to note that the CIFAR dataset is relatively large, and may take some time to download depending on your internet connection speed.
 
-## Training convolutional neural network (CNN)
+## Training (CNN tensorflow)
 
 This is a Python code for training a convolutional neural network (CNN) on the CIFAR-10 dataset using TensorFlow Keras. Here is a summary of what the code does:
 
